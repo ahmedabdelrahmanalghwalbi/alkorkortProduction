@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "285485647028",
+    "project_id": "korkort-56656",
+    "storage_bucket": "korkort-56656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285485647028:android:4ae6106400e58ce77303e1",
+        "android_client_info": {
+          "package_name": "com.example.korkort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285485647028-1ehegia0h260164m77fg0uimf92i4v15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.korkort",
+            "certificate_hash": "7c127a458beb0d48c7c68c40d53376a161a2e123"
+          }
+        },
+        {
+          "client_id": "285485647028-m1j5ir9ov68h3epchhee3pmc6aa3fdbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHAiCts0XChWqDh4WrX3w8b30MLHGk6vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285485647028-m1j5ir9ov68h3epchhee3pmc6aa3fdbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
